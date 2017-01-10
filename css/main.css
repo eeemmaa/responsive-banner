@@ -27,27 +27,27 @@ body {
 
 @media only screen and (min-width: 60em) {
 
-.banner {
-  position: relative;
-  max-height: 500px;
-  overflow: hidden;
-}
+  .banner {
+    position: relative;
+    max-height: 500px;
+    overflow: hidden;
+  }
 
-.banner-text {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  background-image: linear-gradient(to bottom, transparent, rgba(73, 85, 98, .9));
-  background-repeat: no-repeat;
-}
+  .banner-text {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-image: linear-gradient(to bottom, transparent, rgba(73, 85, 98, .9));
+    background-repeat: no-repeat;
+  }
 
-.buttony {
-  text-align: right;
-}
+  .buttony {
+    text-align: right;
+  }
 
-.btn {
-  border-color: #fff;
-  color: #fff;
-}
+  .btn {
+    border-color: #fff;
+    color: #fff;
+  }
 
 }
