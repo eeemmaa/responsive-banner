@@ -36,8 +36,18 @@ body {
 .banner-text {
   position: absolute;
   bottom: 0;
+  width: 100%;
   background-image: linear-gradient(to bottom, transparent, rgba(73, 85, 98, .9));
   background-repeat: no-repeat;
+}
+
+.buttony {
+  text-align: right;
+}
+
+.btn {
+  border-color: #fff;
+  color: #fff;
 }
 
 }
