@@ -1,7 +1,12 @@
 body {
   margin: 0;
   font: normal 100%/1.3 Georgia, serif;
-  background-image: linear-gradient(to bottom, transparent, rgba(73, 85, 98, .9)), url("../images/earth-horizon.jpg");
+  color: #fff;
+  background-color: #495562;
+}
+
+.banner {
+  background-image: linear-gradient(to bottom, transparent, rgba(73, 85, 98, .9));
   background-repeat: no-repeat;
-  max-height: 500px; 
+  max-height: 500px;
 }
